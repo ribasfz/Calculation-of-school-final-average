@@ -1,0 +1,1 @@
+Esse é o meu primeiro projeto relacionado a programação. Usei Portugol para ter mais facilidade, quanto ao código, devem ser inseridas três notas, prova, trabalho e atividades, respectivamente, após a soma o resultado é dividido por 3, se o resultado final for maior que 6 aparecerá que o aluno esá "Aprovado", se o resultado for menor que 6, irá aparecer "Reprovado".
